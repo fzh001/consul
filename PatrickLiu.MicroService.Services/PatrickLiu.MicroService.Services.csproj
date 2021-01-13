@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PatrickLiu.MicroService.Interfaces\PatrickLiu.MicroService.Interfaces.csproj" />
+    <ProjectReference Include="..\PatrickLiu.MicroService.Models\PatrickLiu.MicroService.Models.csproj" />
+  </ItemGroup>
+
+</Project>

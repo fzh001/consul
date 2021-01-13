@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\bin\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.deps.json
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\bin\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.dll
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\bin\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.pdb
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\bin\Debug\netstandard2.0\PatrickLiu.MicroService.Models.dll
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\bin\Debug\netstandard2.0\PatrickLiu.MicroService.Models.pdb
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.AssemblyInfo.cs
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.csproj.CopyComplete
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.dll
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Interfaces\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Interfaces.pdb

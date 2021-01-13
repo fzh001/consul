@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\bin\Debug\netstandard2.0\PatrickLiu.MicroService.Models.deps.json
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\bin\Debug\netstandard2.0\PatrickLiu.MicroService.Models.dll
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\bin\Debug\netstandard2.0\PatrickLiu.MicroService.Models.pdb
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Models.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Models.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Models.AssemblyInfo.cs
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Models.dll
+C:\Users\admin\source\repos\PatrickLiu.MicroService.Client\PatrickLiu.MicroService.Models\obj\Debug\netstandard2.0\PatrickLiu.MicroService.Models.pdb

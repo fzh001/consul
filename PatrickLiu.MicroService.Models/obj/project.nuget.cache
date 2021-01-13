@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7iqlDkQI9fLsOyh+B9LvWa2Jnw/iWBqu5hwkyRtbo98SeYC+n3pEZL+Qfk66AY0Unkud/w4LCyE+F5ytTiGUZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\PatrickLiu.MicroService.Client\\PatrickLiu.MicroService.Models\\PatrickLiu.MicroService.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

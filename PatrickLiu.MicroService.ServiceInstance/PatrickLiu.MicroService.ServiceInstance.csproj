@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Consul" Version="1.6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PatrickLiu.MicroService.Interfaces\PatrickLiu.MicroService.Interfaces.csproj" />
+    <ProjectReference Include="..\PatrickLiu.MicroService.Models\PatrickLiu.MicroService.Models.csproj" />
+    <ProjectReference Include="..\PatrickLiu.MicroService.Services\PatrickLiu.MicroService.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>

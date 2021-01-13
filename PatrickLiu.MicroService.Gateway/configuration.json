@@ -1,0 +1,43 @@
+{
+  //************************************* Ocelot 网关 + 认证中心 + Consul 服务发现 *************************************
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "192.168.90.189",
+          "Port": "5726"
+        },
+        {
+          "Host": "192.168.90.189",
+          "Port": "5727"
+        },
+        {
+          "Host": "192.168.90.189",
+          "Port": "5728"
+        }
+      ],
+      "UpstreamPathTemplate": "/gate/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "UseServiceDiscovery": true,
+      "ServiceName": "PatrickLiuService",
+      "LoadBalancerOptions": { "Type": "RoundRobin" },
+      //IdentityServer 4 认证中心
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "UserGatewayKey",
+        "AllowedScops": [ "User.Get", "Health.Check" ]
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+   // "BaseUrl": "http://localhost:6297",
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500
+      //"Type": "Consul",
+      //"PollingInterval": 1000, //轮训 Consul，频率毫秒
+      //"Token": "footoken" //需要ACL的话
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2arG0bIZ0lcArzxt79ax3LsHhA2QJ2qvKF0J1w5tGQrt5e2V2NITCRMjcVypQ+TQh1XD4reddK0TkHWgEImIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\PatrickLiu.MicroService.Client\\PatrickLiu.MicroService.Interfaces\\PatrickLiu.MicroService.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
