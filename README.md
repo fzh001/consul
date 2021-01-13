@@ -5,4 +5,4 @@ dotnet PatrickLiu.MicroService.ServiceInstance.dll --urls="http://*:5728" --ip="
 dotnet PatrickLiu.MicroService.AuthenticationCenter.dll --urls="http://*: 7299" --port=7299
 
 dotnet PatrickLiu.MicroService.Gateway.dll --urls=http://*:6297 --port=6297
-11111
+2222
