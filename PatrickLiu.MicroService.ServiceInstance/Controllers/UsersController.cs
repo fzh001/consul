@@ -16,6 +16,7 @@ namespace PatrickLiu.MicroService.ServiceInstance.Controllers
     /// </summary>
     [Route("api/[controller]")]
     [ApiController]
+   // [Authorize(AuthenticationSchemes = "Bearer")]
     public class UsersController : ControllerBase
     {
         #region 私有字段
@@ -63,7 +64,7 @@ namespace PatrickLiu.MicroService.ServiceInstance.Controllers
         /// <returns></returns>
         [HttpGet]
         [Route("All")]
-        [Authorize]
+       // [Authorize(AuthenticationSchemes= "UserGatewayKey")]
         public IEnumerable<User> Get()
         {
             Console.WriteLine($"This is UsersController {this._configuration["port"]} Invoke");
